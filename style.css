@@ -1,3 +1,26 @@
+@media screen and (min-width: 780px) and (max-width: 979px) {
+  .conteneur-flex {
+    flex-flow: row wrap;
+  }
+
+  .sous-conteneur-flex {
+    margin: 0px 10px;
+  }
+}
+
+/*Styles spécifiques pour les grands écrans type écrans d'ordinateur*/
+@media screen and (min-width: 980px) {
+  .conteneur-flex {
+    flex-flow: row wrap;
+  }
+
+  .sous-conteneur-flex {
+    flex-flow: row wrap;
+    margin: 0px 10px;
+
+  }
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,6 +30,7 @@
 html {
   scroll-behavior: smooth;
 }
+
 
 body {
   font-family: 'Inter', Arial, sans-serif;
@@ -42,6 +66,12 @@ a:focus-visible,
 button:focus-visible {
   outline: 3px solid #FF6B2C;
   outline-offset: 2px;
+}
+
+
+header img {
+  width: 90px;
+  /* height: 50px; */
 }
 
 .conteneur {
@@ -550,29 +580,73 @@ button:focus-visible {
   color: #94A3B8;
 }
 
-#conta {
+
+.contactNous {
+  background-color: #F7F8FA;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1px;
+  padding: 30px;
+}
+
+
+/*email...*/
+.conta {
+  background-color: #ffff;
   border: 1px solid #000000;
   border-radius: 40px;
-  margin-top: 32px;
-  padding: 24px;
-  width: 400px;
-}
-
-label {
-  display: block;
-  font-weight: 1200;
-  border-radius: 4px;
-
+  margin: 20px;
+  padding: 10px;
+  width: 700px;
+  height: 500px;
 
 }
 
-input,
+.conta input,
 textarea {
-  width: 65%;
+  width: 70%;
   padding: 8px;
-  margin-top: 2px;
+  margin-top: 15px;
   margin-bottom: 16px;
   border: 2px solid #E5E7EB;
   border-radius: 20px;
 
+
+}
+
+
+/* viens nous voir*/
+.CoT {
+  background-color: #F7F8FA;
+  color: rgb(44, 45, 45);
+  margin: 10px;
+  padding: 24px;
+  width: 700px;
+  border-radius: 40px;
+  height: 500px;
+
+
+}
+
+.CoT h1 {
+
+  font-family: 'Times New Roman', Times, bold;
+  font-size: 40px;
+
+
+}
+
+.mod {
+  color: black;
+  font-family: "Arial, sans-serif";
+  font-size: 30px;
+
+
+}
+
+.l {
+  font-family: 'Times New Roman', Times, bold;
+  font-size: 40px;
 }
