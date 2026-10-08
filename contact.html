@@ -17,43 +17,49 @@
 
             <nav aria-label="Navigation principale">
                 <ul class="menu">
-                    <li><a href="first.html" class="lien-actif">Accueil</a></li>
+                    <li><a href="first.html">Accueil</a></li>
                     <li><a href="propos.html">À propos</a></li>
                     <li><a href="program.html">Programmes</a></li>
-                    <li><a href="contact.html">Contact nous</a></li>
+                    <li><a href="contact.html" class="lien-actif">Contact nous</a></li>
 
                 </ul>
             </nav>
         </div>
     </header>
-    <div class="contactNous">
-        <div class="CoT">
+    <form action="contact.html" method="post">
 
-            <h1> Viens Nous Voir </h1>
-            <h4>12 rue des Palmiers, 20000 Casablanca</h4><br>
-            <h1>Téléphone </h1>
-            <h4>0666-664585</h4><br>
 
-            <h1>Horaires </h1>
-            <h4>Lu-Sum : 8h00-23h00</h4>
+        <div class="contactNous">
+            <div class="CoT">
 
+                <h1> Viens Nous Voir </h1>
+                <h4>12 rue des Palmiers, 20000 Casablanca</h4>
+                <h1>Téléphone </h1>
+                <h4>0666-664585</h4>
+
+                <h1>Horaires </h1>
+                <h4>Lu-Sum : 8h00-23h00</h4>
+
+
+            </div>
+
+
+            <div class="conta">
+                <center>
+                    <h1>Contactez-Nous</h1><br>
+                    <input type="email" id="email" name="email" placeholder="Votre email" required>
+
+                    <input type="tel" id="phone" name="phone" placeholder="Votre téléphone" required>
+                    <textarea id="message" name="message" placeholder="Votre message" required></textarea>
+                </center>
+                <center> <button type="submit" class="bouton bouton-principal">Envoyer</button>
+
+                </center>
+            </div>
 
         </div>
 
-
-        <div class="conta">
-            <center>
-                <h1>Contact Nous</h1><br>
-                <input type="email" id="email" name="email" placeholder="Votre email" required>
-                <input type="tel" id="phone" name="phone" placeholder="Votre téléphone" required>
-                <textarea id="message" name="message" placeholder="Votre message" required></textarea>
-            </center>
-            <center> <a href="contact.html" class="bouton bouton-principal">Envoyer</a>
-
-            </center><br><br>
-        </div>
-
-    </div>
+    </form>
 
 
 
