@@ -1,0 +1,87 @@
+Résumé,Clé de ticket,ID de ticket,Type de ticket,État,Clé de projet,Nom du projet,Type de projet,Chef de projet,ID de responsable de projet,Description du projet,Priorité,Résolution,Personne assignée,ID de la personne assignée,Rapporteur,ID de rapporteur,Créateur,ID de créateur,Création,Mise à jour,Dernier affichage,Résolu,Date d'échéance,Votes,Description,Environnement,Observateurs,ID des observateurs,Estimation originale,Estimation restante,Temps consacré,Ratio du travail réel comparé à l'estimation,Σ Estimation originale,Σ Estimation restante,Σ Temps consacré,Niveau de sécurité,Pièce jointe,Champs personnalisés (Classement),Champs personnalisés (Couleur du ticket),Champs personnalisés (Date de début),Champs personnalisés (Team),Champs personnalisés (Vulnérabilité),Champs personnalisés (development),Catégorie d'état,Catégorie d'état modifiée,Parent,Clé parent,Parent summary
+travail SEO,KAN-11,10020,Story,Revue en cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,09/oct./26 9:40 AM,09/oct./26 11:46 AM,09/oct./26 9:40 AM,,,0,"1- description des image 
+
+2-title page 
+
+3-FAQ
+
+4-button transition ",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i00047:,,,,,{},En cours,09/oct./26 9:40 AM,,,
+active Cursor,KAN-10,10019,Story,Revue en cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,08/oct./26 4:34 PM,08/oct./26 4:36 PM,08/oct./26 4:36 PM,,,0,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,08/oct./26 4:35 PM;d50a4d02-c362-442c-a5ab-6c5392cffd0a;msedge_proxy.exe;https://errjysafaa.atlassian.net/rest/api/3/attachment/content/10000,0|i0003z:,,,,,{},En cours,08/oct./26 4:34 PM,,,
+logo,KAN-9,10018,Story,Revue en cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,07/oct./26 5:24 PM,07/oct./26 5:29 PM,07/oct./26 5:28 PM,,,0,ADD LOGO sur tout les pages ,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0003q:,,07/oct./26 12:00 AM,,,{},En cours,07/oct./26 5:24 PM,,,
+documentation CSS,KAN-8,10017,Story,Revue en cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,07/oct./26 9:52 AM,08/oct./26 4:36 PM,,,,0,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0003u:,,,,,{},En cours,08/oct./26 4:32 PM,,,
+les plogage de gitHub,KAN-7,10016,Story,Revue en cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,07/oct./26 9:51 AM,07/oct./26 5:22 PM,07/oct./26 5:27 PM,,,0,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i00035:,,,,,{},En cours,07/oct./26 5:22 PM,,,
+projet flexible sur tel et tablet,KAN-6,10015,Story,En cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,07/oct./26 9:50 AM,07/oct./26 9:52 AM,,,,0,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0003b:,,,,,{},En cours,07/oct./26 9:52 AM,,,
+add pagecontact us,KAN-5,10014,Story,Revue en cours,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 4:02 PM,07/oct./26 5:27 PM,07/oct./26 5:27 PM,,,0,ajouter button contacte nous utilisateur saisie votre email et saisie aussi le message  et cliquer sur le button de Envoyer . ,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i00030:,,06/oct./26 12:00 AM,,,{},En cours,06/oct./26 4:02 PM,,,
+diviser les pages,KAN-4,10013,Story,Terminé(e),KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,Medium,Terminé,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:16 PM,07/oct./26 5:28 PM,07/oct./26 5:28 PM,07/oct./26 5:26 PM,,0,"diviser le page principale a des sous pages , chaque page lier par page principale “Accueill“",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0002h:,,06/oct./26 12:00 AM,,,{},Terminé,07/oct./26 5:26 PM,,,
+Sous-tâche 2.1,KAN-3,10012,Subtask,À faire,KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,,0,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0002k:,,,,,{},A faire,06/oct./26 12:03 PM,,,
+navbar,KAN-2,10011,Story,Terminé(e),KAN,My Software Team,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,Terminé,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:06 PM,,06/oct./26 12:06 PM,16/oct./26 12:00 AM,0,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0002f:,,,,,{},Terminé,06/oct./26 12:06 PM,,,
+Finalize Documentation for the Project,SAM1-10,10009,Tâche,Revue en cours,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,13/oct./26 12:00 AM,0,"Documentation is essential for both users and developers. This task includes:
+
+- Writing user manuals.
+- Creating API documentation.
+- Compiling developer guides.
+
+The goal is to ensure that all aspects of the project are well-documented for future reference.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0001w:,,,,,{},En cours,06/oct./26 12:03 PM,10004,SAM1-5,Post-Launch Review and Feedback Collection
+Optimize Performance of the Application,SAM1-9,10008,Tâche,À faire,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,18/oct./26 12:00 AM,0,"Optimizing the performance of the application is crucial for user satisfaction. This task involves:
+
+- Analyzing current performance metrics.
+- Identifying bottlenecks in the code.
+- Implementing performance improvements.
+
+The goal is to ensure that the application runs smoothly, even under heavy load.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0001i:,,,,,{},A faire,06/oct./26 12:03 PM,10001,SAM1-2,Implement Market Analysis Tools
+Develop Transaction History Feature,SAM1-8,10007,Tâche,À faire,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,17/oct./26 12:00 AM,0,"The *Transaction History* feature allows users to view their past transactions. This task involves:
+
+- Designing the transaction history interface.
+- Implementing backend logic to retrieve transaction data.
+- Ensuring data accuracy and security.
+
+This feature is vital for users to track their investment performance over time.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0001b:,,,,,{},A faire,06/oct./26 12:03 PM,10001,SAM1-2,Implement Market Analysis Tools
+Create Wallet Integration,SAM1-7,10006,Tâche,En cours,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,15/oct./26 12:00 AM,0,"Integrating a cryptocurrency wallet is essential for users to manage their assets. This task includes:
+
+- Researching wallet APIs.
+- Implementing wallet connection features.
+- Testing wallet transactions.
+
+The integration should support multiple cryptocurrencies and ensure that transactions are secure and efficient.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0000w:,,,,,{},En cours,06/oct./26 12:03 PM,10001,SAM1-2,Implement Market Analysis Tools
+Set Up Notifications for Users,SAM1-6,10005,Tâche,À faire,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,13/oct./26 12:00 AM,0,"Setting up notifications is crucial for keeping users informed about their investments. This task involves:
+
+- Designing notification settings.
+- Implementing alerts for price changes.
+- Testing notification delivery methods.
+
+Notifications should be customizable to enhance user experience.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0000o:,,,,,{},A faire,06/oct./26 12:03 PM,10000,SAM1-1,Implement User Authentication
+Post-Launch Review and Feedback Collection,SAM1-5,10004,Epic,Terminé(e),SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,29/oct./26 12:00 AM,0,"After the launch, it's essential to gather feedback from users. This task includes:
+
+- Analyzing user feedback.
+- Identifying areas for improvement.
+- Planning for future updates.
+
+The goal is to ensure that the platform continues to meet user needs after launch.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0000n:,,,,,{},Terminé,06/oct./26 12:03 PM,,,
+Prepare for Project Launch,SAM1-4,10003,Epic,À faire,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,21/oct./26 12:00 AM,0,"Preparing for the project launch is critical to ensure a smooth rollout. This task involves:
+
+- Finalizing marketing materials.
+- Setting up support channels.
+- Coordinating with stakeholders.
+
+The goal is to ensure that everything is in place for a successful launch.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0000e:,,,,,{},A faire,06/oct./26 12:03 PM,,,
+Conduct User Testing for the Platform,SAM1-3,10002,Epic,En cours,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,21/oct./26 12:00 AM,0,"User testing is essential to ensure that the platform meets user needs. This task includes:
+
+- Recruiting test users.
+- Creating test scenarios.
+- Collecting feedback and making adjustments.
+
+The goal is to identify any usability issues before the official launch.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i0000c:,,,,,{},En cours,06/oct./26 12:03 PM,,,
+Implement Market Analysis Tools,SAM1-2,10001,Epic,Revue en cours,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,20/oct./26 12:00 AM,0,"The *Market Analysis Tools* will provide users with insights into market trends. This task includes:
+
+- Developing charts for price tracking.
+- Implementing indicators for market analysis.
+- Ensuring real-time data updates.
+
+These tools will empower users to make informed investment decisions.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|i00002:,,,,,{},En cours,06/oct./26 12:03 PM,,,
+Implement User Authentication,SAM1-1,10000,Epic,À faire,SAM1,(Example) Billing System Dev,software,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,06/oct./26 12:03 PM,06/oct./26 12:03 PM,,,29/oct./26 12:00 AM,0,"The *User Authentication* feature is crucial for ensuring that users can securely access their accounts. This task involves:
+
+- Designing the login interface.
+- Implementing secure password storage.
+- Setting up two-factor authentication.
+
+The goal is to provide a seamless experience while maintaining high security standards. Ensure that the authentication process is user-friendly and efficient.",,Errjy Safaa,712020:bc509703-1f4f-4837-9d75-805bae729938,,,,,,,,,,0|hzzzzz:,,,,,{},A faire,06/oct./26 12:03 PM,,,
