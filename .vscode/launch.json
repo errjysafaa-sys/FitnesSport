@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open first.html",
-            "file": "c:\\Users\\ycode\\Desktop\\PFitness\\first.html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\ycode\\Desktop\\PFitness\\index.html"
         }
     ]
 }

@@ -1,0 +1,63 @@
+1-agile c'est des principe proposer le plannig de travail 
+           
+       sprint c'est un increment des taches 
+
+
+2-Scrum c'est applicable de methode de travaille "agile "
+3-SEO :affichage dans google par exmpl afficher parmi les premier .mais a condition de respecter les écritures 
+
+pour ameliorer le SEO 
+                 Description de title
+                 Description de img alt 
+                 Respecter le norme des balises(h1/h2...)
+                 Description de title
+
+
+
+
+4-UI/UX: 
+
+-----------------------------------------
+product oner c'est le client 
+
+restrop..  c'est la fin de projet le theme parler de ses plogage , + est parle de c'est quoi fait , et fait pas pour regler les probleme 
+
+
+
+---------------------------------------------------------------------------------------------
+class="lien-actif": ==> lien active dans header est acive la page actuel 
+pour le site travaille bien dans les telephon et Tap: on ajoute @media("Width max"){
+                       On ajoute les changement comme images/size….
+}
+______________________________________________________________________________________________________________________
+
+                                    Html
+               ===================================================
+
+placeholder : on peut eviter name of label et poser dans placeholder , name affiche dans input 
+summer :cette balise permet de de masqué le message et lorsque tu passes le curseur sur le texte flex 
+______________________________________________________________________________________________________________________
+
+                                    CSS
+               ===================================================
+
+dans CSS on appel a un cla par " . "
+et un ID par " # "
+
+positionnement :
+
+                  absolute: 
+                  stichy: 
+                  relative: 
+                  fixed: 
+-----------------------------------------------------------------------------------------
+display 
+                  flex: les elements horizontal
+                  block: horizontal
+                  inline …..
+
+align items : change a partir flex derection
+align content :change a partir flex derection
+
+gap: c'est update of margin  /margin donnez un espace au debut de contexte contre gap = espace between context
+
